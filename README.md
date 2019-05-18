@@ -1,5 +1,8 @@
-# zombie
+# zombie-shop
 A Game made in Phaser 3
+
+## DEMO
+https://zombie-shop.herokuapp.com/
 
 ## PREREQUISITES (Play Locally)
 1) Install Node.js in your computer
